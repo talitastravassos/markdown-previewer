@@ -9,7 +9,7 @@ const MarkdownPreview = (props) => {
     }
 
     return (
-        <div className="preview" dangerouslySetInnerHTML={createMarkDown()}>
+        <div type="text" className="preview" dangerouslySetInnerHTML={createMarkDown()}>
         
         </div>
     )

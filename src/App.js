@@ -7,7 +7,7 @@ class App extends Component {
     return (
       <div className="container">
         <div className="row">
-          <div className="col-xs-12">
+          <div className="col-md-12">
             <h1 className="text-center">Markdown Live Preview</h1>
             <hr />
           </div>
