@@ -19,6 +19,17 @@
   color: white;
 }
 
+.md-input {
+  background-color: #1d1f20;
+  border-radius: 4px;
+  color: white;
+  font-family: 'Roboto Mono', monospace;
+  font-size: 12px;
+  padding: 10px;
+  width: 100%;
+  height: 700px;
+  }
+
 .App-link {
   color: #61dafb;
 }
