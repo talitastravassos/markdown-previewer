@@ -3,6 +3,7 @@
 body{
   margin: 40px;
   font-family: 'Montserrat', sans-serif;
+  
 }
 
 .md-input {
@@ -13,7 +14,7 @@ body{
   font-size: 12px;
   padding: 10px;
   width: 100%;
-  height: 650px;
+  height: 90%;
   }
 
 .preview {
@@ -22,7 +23,7 @@ body{
   font-family: 'Lato', sans-serif;
   padding: 10px;
   width: 100%;
-  height: 650px;
+  height: 90%;
   overflow: scroll;
   overflow-x: hidden;
   background-color: LightGray;
@@ -33,10 +34,13 @@ body{
     margin: auto;
   }
 
+  .md-input {
+    height: 600px;
+  }
+
   .preview {
     font-size: 80%;
-    height: 550px;
-
+    height: 80%;
   }
 }
 

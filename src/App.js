@@ -1,6 +1,7 @@
 import React, { Component } from 'react';
 import './App.css';
 import UserInput from './components/UserInput';
+import Footer from './components/Footer';
 
 class App extends Component {
   render() {
@@ -13,6 +14,7 @@ class App extends Component {
           </div>
         </div>
         <UserInput />
+        <Footer />
       </div>
     );
   }
