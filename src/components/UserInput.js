@@ -16,7 +16,7 @@ const UserInput = (props) => {
             <div className="col-md-6">
                 <h3 className="text-center">Enter the Markdown</h3>
                 <textarea 
-                    id="editor"
+                    
                     type="text" 
                     className="md-input" 
                     value={md} 
